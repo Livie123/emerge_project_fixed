@@ -10,14 +10,6 @@ body {
   
 }
 
-aside{
-  width: 10%;
-  display: flex;
-  background-color: rgb(194, 196, 199);
-  width: 50%;
-  justify-content: center;
-}
-
 header{
   text-align: center; 
 
