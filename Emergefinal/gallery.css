@@ -130,6 +130,15 @@ h1  {
   font-family: 'Josefin Sans', sans-serif;
 }
 
+img{
+  max-height: 10em;
+  padding: 20px 30px;
+}
+
+.project-section{
+  display: flex;
+  justify-content: space-evenly;  
+ }
 
 h2{
   padding-bottom: 30px;
