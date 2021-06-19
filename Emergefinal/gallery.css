@@ -127,4 +127,9 @@ img{
   padding: 20px 30px;
 }
 
+.project-section {
+  display: flex;
+  justify-content: space-between;
+  {
+
 
