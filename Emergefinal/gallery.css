@@ -137,12 +137,17 @@ video{
   justify-content: space-between;
   
   { */
-
+#gallery-header {  
+  font-size: 30px;
+   margin-right: auto;
+  margin-left:auto;
+  text-align: center;
+}
 p { 
   margin-right: auto;
   margin-left:auto;
   text-align: center;
-  font-size: 30px;
+
    }
 
 h2 {
